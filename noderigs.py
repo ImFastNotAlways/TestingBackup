@@ -1,0 +1,3 @@
+ok ir pats galvenais
+
+
